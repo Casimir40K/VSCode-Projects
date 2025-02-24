@@ -1,0 +1,14 @@
+C:\VsCode\C#\MyAwesomeProgram\bin\Debug\net8.0\MyAwesomeProgram.exe
+C:\VsCode\C#\MyAwesomeProgram\bin\Debug\net8.0\MyAwesomeProgram.deps.json
+C:\VsCode\C#\MyAwesomeProgram\bin\Debug\net8.0\MyAwesomeProgram.runtimeconfig.json
+C:\VsCode\C#\MyAwesomeProgram\bin\Debug\net8.0\MyAwesomeProgram.dll
+C:\VsCode\C#\MyAwesomeProgram\bin\Debug\net8.0\MyAwesomeProgram.pdb
+C:\VsCode\C#\MyAwesomeProgram\obj\Debug\net8.0\MyAwesomeProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\VsCode\C#\MyAwesomeProgram\obj\Debug\net8.0\MyAwesomeProgram.AssemblyInfoInputs.cache
+C:\VsCode\C#\MyAwesomeProgram\obj\Debug\net8.0\MyAwesomeProgram.AssemblyInfo.cs
+C:\VsCode\C#\MyAwesomeProgram\obj\Debug\net8.0\MyAwesomeProgram.csproj.CoreCompileInputs.cache
+C:\VsCode\C#\MyAwesomeProgram\obj\Debug\net8.0\MyAwesomeProgram.dll
+C:\VsCode\C#\MyAwesomeProgram\obj\Debug\net8.0\refint\MyAwesomeProgram.dll
+C:\VsCode\C#\MyAwesomeProgram\obj\Debug\net8.0\MyAwesomeProgram.pdb
+C:\VsCode\C#\MyAwesomeProgram\obj\Debug\net8.0\MyAwesomeProgram.genruntimeconfig.cache
+C:\VsCode\C#\MyAwesomeProgram\obj\Debug\net8.0\ref\MyAwesomeProgram.dll

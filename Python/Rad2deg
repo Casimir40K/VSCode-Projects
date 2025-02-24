@@ -1,0 +1,6 @@
+import numpy as np
+import math
+def Rad2deg(rad):
+    return rad * 180 / np.pi
+rad = 2.34567
+print(f"{rad} is {Rad2deg(rad)} in degrees")
