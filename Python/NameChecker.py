@@ -1,5 +1,5 @@
 def MallieFunction(name):
-    if name == 'Mallie':
+    if name == 'MallieMommyMilkies':
         print("That's correct")
     else:
         print("LMAO no its not\n")
